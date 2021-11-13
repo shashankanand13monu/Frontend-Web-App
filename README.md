@@ -1,3 +1,10 @@
+# Setup For React App (Important To Run)
+### `cd Frontend-Web-App`
+### `npm install --from-lock-json`
+### `npm audit fix`
+### Copy `.env.example` as `.env`
+### `Change API url in .env`
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
